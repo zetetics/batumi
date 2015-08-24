@@ -34,4 +34,11 @@
     // Initialize WOW.js Scrolling Animations
     new WOW().init();
     
+    lightbox.option({
+      'resizeDuration': 200,
+      'wrapAround': true,
+      'showImageNumberLabel': false,
+      'alwaysShowNavOnTouchDevices' : true
+    })
+    
 })(jQuery); // End of use strict

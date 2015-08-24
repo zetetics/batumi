@@ -3420,8 +3420,8 @@ header .carousel-fade .carousel-control .glyphicon-chevron-right {
   }
 }
 #map {
-  height: 75%;
-  padding: 0;
+  height: 85%;
+  padding: 0 0 100px 0;
 }
 @media (min-width: 480px) {
   #map {
